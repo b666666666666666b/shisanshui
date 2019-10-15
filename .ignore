@@ -1,0 +1,18 @@
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+ 
+ 
+# 忽略Python编译产生的.pyc、.pyo、dist等文件或目录，以及日志：
+*.log
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+.idea/
+dist
+build
+ 
+# My configurations 自定义文件:
+db.ini
+deploy_key_rsa
