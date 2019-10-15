@@ -1,2 +1,3 @@
 # shisanshui
-2 persons works on shisanshui
+This is a automatic card playing system.
+
